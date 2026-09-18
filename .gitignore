@@ -11,6 +11,9 @@ env/
 *.avi
 *.mkv
 
+# PLLRC training videos
+Training/PLLRC_Videos/
+
 # Environment / secrets
 .env
 
